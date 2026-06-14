@@ -54,15 +54,25 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Information
 
 <p align="left">
-<a href="https://www.linkedin.com/in/hasitha-ramesh-security/" target="blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30" />
-</a>
+
+📞 <b>Phone:</b> +94 76 109 16 96 <br><br>
+
+📧 <b>Email:</b> <a href="mailto:hasitha.ict@gmail.com">hasitha.ict@gmail.com</a><br><br>
+
+💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/hasitha-ramesh-security/" target="_blank">linkedin.com/in/hasitha-ramesh-security</a><br><br>
+
+💻 <b>GitHub:</b> <a href="https://github.com/hasitha-ramesh" target="_blank">github.com/hasitha-ramesh</a><br><br>
+
+🏴‍☠️ <b>TryHackMe:</b> <a href="https://tryhackme.com/p/hasitha.ramesh" target="_blank">tryhackme.com/p/hasitha.ramesh</a><br><br>
+
+📍 <b>Location:</b> Dambulla, Sri Lanka
+
 </p>
 
-📧 Email: [hasitha.ict@gmail.com](mailto:hasitha.ict@gmail.com)
+---
 
 ---
 
