@@ -56,23 +56,19 @@
 
 ## 📫 Contact Information
 
-<p align="left">
+📞 Phone: +94 76 109 16 96
 
-📞 <b>Phone:</b> +94 76 109 16 96 <br><br>
+📧 Email: hasitha.ict@gmail.com
 
-📧 <b>Email:</b> <a href="mailto:hasitha.ict@gmail.com">hasitha.ict@gmail.com</a><br><br>
+🌐 Portfolio: https://hasitha-ramesh.github.io/hasitha_ramesh_portfolio/
 
-💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/hasitha-ramesh-security/" target="_blank">linkedin.com/in/hasitha-ramesh-security</a><br><br>
+💼 LinkedIn: https://linkedin.com/in/hasitha-ramesh-security/
 
-💻 <b>GitHub:</b> <a href="https://github.com/hasitha-ramesh" target="_blank">github.com/hasitha-ramesh</a><br><br>
+💻 GitHub: https://github.com/hasitha-ramesh
 
-🏴‍☠️ <b>TryHackMe:</b> <a href="https://tryhackme.com/p/hasitha.ramesh" target="_blank">tryhackme.com/p/hasitha.ramesh</a><br><br>
+🏴‍☠️ TryHackMe: https://tryhackme.com/p/hasitha.ramesh
 
-📍 <b>Location:</b> Dambulla, Sri Lanka
-
-</p>
-
----
+📍 Location: Dambulla, Sri Lanka
 
 ---
 
